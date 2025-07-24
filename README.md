@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🎓 Final Year CSE Student | 💻 Aspiring Software Developer  
+🚀 Passionate about Java, Data Structures & Algorithms  
+📚 Currently sharpening my SDE skills | 
 
 
 ## 🌐 Socials:
